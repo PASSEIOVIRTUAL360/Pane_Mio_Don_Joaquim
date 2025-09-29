@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.10" apprev="21009" start="node23">
+  <panorama id="node23">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-125.269">
+      <start tilt="6.33614" fov="100" projection="4" pan="-179.931"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node23" tags="OFII" info="" datetime="2025:09:28 19:38:03" longitude="-52.336664" heading="-125.269" altitude="33.60" source="" comment="" latitude="-31.744981" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="2.48238" id="Point02" url="{node8}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-177.316"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="50.4222">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node19" tags="OFII" info="" datetime="2025:09:28 19:37:41" longitude="" heading="50.4222" altitude="36.90" source="" comment="" latitude="" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="156.819" tilt="0" target="$fwd" id="Point01" url="{node23}" title="Pane Mio Don Joaquim" description="" skinid="ht_node"/>
+      <hotspot pan="-82.493" tilt="0" target="$fwd" id="Point02" url="{node8}" title="Pane Mio Don Joaquim" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-130.365">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node8" tags="OFII" info="" datetime="2025:09:28 19:36:32" longitude="-52.33664330" heading="-130.365" altitude="23.10" source="" comment="" latitude="-31.74496727" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="47.0848" tilt="0" target="$fwd" id="Point01" url="{node19}" title="Pane Mio Don Joaquim" description="" skinid="ht_node"/>
+      <hotspot tilt="0" distance="3.89211" id="Point02" url="{node16}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-260.409"/>
+      <hotspot tilt="0" distance="2.48238" id="Point03" url="{node23}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-2.41184"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="104.335">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node16" tags="OFII" info="" datetime="2025:09:28 19:37:41" longitude="-52.33661179" heading="104.335" altitude="15.80" source="" comment="" latitude="-31.74498979" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="2.6289" id="Point02" url="{node21}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="3.43659"/>
+      <hotspot tilt="0" distance="3.89211" id="Point01" url="{node8}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="154.291"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-157.239">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node21" tags="OFII" info="" datetime="2025:09:28 19:38:02" longitude="-52.33658449" heading="-157.239" altitude="30.30" source="" comment="" latitude="-31.74499426" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="2.6289" id="Point01" url="{node16}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-78.1374"/>
+      <hotspot tilt="0" distance="3.13103" id="Point02" url="{node1}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-171.667"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="15.2362">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node1" tags="OFII" info="" datetime="2025:09:28 19:36:04" longitude="-52.33657624" heading="15.2362" altitude="17.60" source="" comment="" latitude="-31.74496699" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.13103" id="Point01" url="{node21}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="180.809"/>
+      <hotspot tilt="0" distance="3.37453" id="Point02" url="{node2}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="83.721"/>
+      <hotspot tilt="0" distance="3.58408" id="Point03" url="{node9}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-15.6205"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="17.168">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node2" tags="OFII" info="" datetime="2025:09:28 19:36:04" longitude="-52.33660944" heading="17.168" altitude="19.20" source="" comment="" latitude="-31.74495586" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.37453" id="Point01" url="{node1}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-94.3472"/>
+      <hotspot tilt="0" distance="5.11195" id="Point02" url="{node3}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="52.8335"/>
+      <hotspot tilt="0" distance="4.40449" id="Point03" url="{node7}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="101.125"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="24.7631">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node3" tags="OFII" info="" datetime="2025:09:28 19:36:04" longitude="-52.33664096" heading="24.7631" altitude="16.40" source="" comment="" latitude="-31.74491851" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="5.11195" id="Point01" url="{node2}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-119.571"/>
+      <hotspot tilt="0" distance="3.11783" id="Point02" url="{node4}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-18.1969"/>
+      <hotspot tilt="0" distance="3.94596" id="Point03" url="{node7}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="183.99"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="40.087">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node4" tags="OFII" info="" datetime="2025:09:28 19:36:04" longitude="-52.33661849" heading="40.087" altitude="18.90" source="" comment="" latitude="-31.74489799" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.11783" id="Point01" url="{node3}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="177.127"/>
+      <hotspot tilt="0" distance="5.99687" id="Point02" url="{node5}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="129.141"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-289.278">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node5" tags="OFII" info="" datetime="2025:09:28 19:36:33" longitude="-52.33668190" heading="-289.278" altitude="23.70" source="" comment="" latitude="-31.74489710" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="5.99687" id="Point01" url="{node4}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-380.224"/>
+      <hotspot tilt="0" distance="4.20557" id="Point02" url="{node6}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-117.096"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-588.532">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node6" tags="OFII" info="" datetime="2025:09:28 19:36:32" longitude="-52.33668795" heading="-588.532" altitude="24.40" source="" comment="" latitude="-31.74493457" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.59015" id="Point01" url="{node7}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-710.554"/>
+      <hotspot tilt="0" distance="2.60958" id="Point02" url="{node12}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-411.357"/>
+      <hotspot tilt="0" distance="4.20557" id="Point03" url="{node5}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-596.35"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-208.029">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node7" tags="OFII" info="" datetime="2025:09:28 19:36:34" longitude="-52.33665576" heading="-208.029" altitude="24.40" source="" comment="" latitude="-31.74495169" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="4.40449" id="Point01" url="{node2}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-304.072"/>
+      <hotspot tilt="0" distance="3.59015" id="Point02" url="{node6}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-150.051"/>
+      <hotspot tilt="0" distance="2.33863" id="Point03" url="{node11}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-38.0652"/>
+      <hotspot tilt="0" distance="3.94596" id="Point04" url="{node3}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-228.802"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="11.7784">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node9" tags="OFII" info="" datetime="2025:09:28 19:37:03" longitude="-52.33655680" heading="11.7784" altitude="23.40" source="" comment="" latitude="-31.74493932" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.58408" id="Point01" url="{node1}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="160.922"/>
+      <hotspot tilt="0" distance="3.64497" id="Point02" url="{node10}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="11.7784"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-235.03">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node10" tags="OFII" info="" datetime="2025:09:28 19:37:02" longitude="-52.33655680" heading="-235.03" altitude="23.90" source="" comment="" latitude="-31.74490654" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.64497" id="Point01" url="{node9}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-55.03"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="46.9142">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node11" tags="OFII" info="" datetime="2025:09:28 19:37:02" longitude="-52.33666007" heading="46.9142" altitude="18.70" source="" comment="" latitude="-31.74497240" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="3.19455" id="Point01" url="{node12}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="106.856"/>
+      <hotspot tilt="0" distance="2.33863" id="Point02" url="{node7}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="36.878"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" width="2000" levelingroll="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2000" levelbiashidpi="1.000" levelbias="0.400">
+      <level width="2000" height="2000" preload="0" predecode="0"/>
+      <level width="1000" height="1000" preload="0" predecode="0"/>
+      <level width="500" height="500" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-293.861">
+      <start tilt="0" fov="100" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata nodeid="node12" tags="OFII" info="" datetime="2025:09:28 19:37:02" longitude="-52.33668931" heading="-293.861" altitude="23.50" source="" comment="" latitude="-31.74495801" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot tilt="0" distance="2.60958" id="Point01" url="{node6}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-296.686"/>
+      <hotspot tilt="0" distance="3.19455" id="Point02" url="{node11}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-413.919"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" hideabout="0" simulatemass="1" zoomcentercursor="1" contextfullscreen="1" contextvr="1" sensitivity="8" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" copyright="" author="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
