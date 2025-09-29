@@ -13,11 +13,11 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360"/>
     </view>
-    <userdata nodeid="node23" tags="OFII" info="" datetime="2025:09:28 19:38:03" longitude="-52.33666434" heading="-125.269" altitude="33.60" source="" comment="" latitude="-31.74498357" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
+    <userdata nodeid="node23" tags="OFII" info="" datetime="2025:09:28 19:38:03" longitude="-52.336664" heading="-125.269" altitude="33.60" source="" comment="" latitude="-31.744981" copyright="" author="" title="Pane Mio Don Joaquim" description="" customnodeid=""/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
       <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
-      <hotspot tilt="0" distance="2.69135" id="Point02" url="{node8}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-172.935"/>
+      <hotspot tilt="0" distance="2.48238" id="Point02" url="{node8}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-177.316"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
@@ -66,8 +66,9 @@
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label background="1" wordwrap="1" width="180" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" enabled="1"/>
       <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="47.0848" tilt="0" target="$fwd" id="Point01" url="{node19}" title="Pane Mio Don Joaquim" description="" skinid="ht_node"/>
       <hotspot tilt="0" distance="3.89211" id="Point02" url="{node16}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-260.409"/>
-      <hotspot tilt="0" distance="2.69135" id="Point03" url="{node23}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="1.9686"/>
+      <hotspot tilt="0" distance="2.48238" id="Point03" url="{node23}" skinid="ht_node" target="$fwd" title="Pane Mio Don Joaquim" description="" pan="-2.41184"/>
     </hotspots>
     <media/>
     <transition zoomout="0" zoomafterinfov="140" blendcolor="0x000000" zoomoutpause="1" zoomin="7" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" delay="none" softedge="0" type="mesh" blendtime="1" enabled="1"/>
